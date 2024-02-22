@@ -1,0 +1,708 @@
+{
+  "question": [
+    {
+      "question": "hi, how are you doing?",
+      "answer": "i'm fine. how about yourself?"
+    },
+    {
+      "question": "i'm fine. how about yourself?",
+      "answer": "i'm pretty good. thanks for asking."
+    },
+    {
+      "question": "i'm pretty good. thanks for asking.",
+      "answer": "no problem. so how have you been?"
+    },
+    {
+      "question": "no problem. so how have you been?",
+      "answer": "i've been great. what about you?"
+    },
+    {
+      "question": "i've been great. what about you?",
+      "answer": "i've been good. i'm in school right now."
+    },
+    {
+      "question": "i've been good. i'm in school right now.",
+      "answer": "what school do you go to?"
+    },
+    {
+      "question": "what school do you go to?",
+      "answer": "i go to pcc."
+    },
+    {
+      "question": "i go to pcc.",
+      "answer": "do you like it there?"
+    },
+    {
+      "question": "do you like it there?",
+      "answer": "it's okay. it's a really big campus."
+    },
+    {
+      "question": "it's okay. it's a really big campus.",
+      "answer": "good luck with school."
+    },
+    {
+      "question": "good luck with school.",
+      "answer": "thank you very much."
+    },
+    {
+      "question": "how's it going?",
+      "answer": "i'm doing well. how about you?"
+    },
+    {
+      "question": "i'm doing well. how about you?",
+      "answer": "never better, thanks."
+    },
+    {
+      "question": "never better, thanks.",
+      "answer": "so how have you been lately?"
+    },
+    {
+      "question": "so how have you been lately?",
+      "answer": "i've actually been pretty good. you?"
+    },
+    {
+      "question": "i've actually been pretty good. you?",
+      "answer": "i'm actually in school right now."
+    },
+    {
+      "question": "i'm actually in school right now.",
+      "answer": "which school do you attend?"
+    },
+    {
+      "question": "which school do you attend?",
+      "answer": "i'm attending pcc right now."
+    },
+    {
+      "question": "i'm attending pcc right now.",
+      "answer": "are you enjoying it there?"
+    },
+    {
+      "question": "are you enjoying it there?",
+      "answer": "it's not bad. there are a lot of people there."
+    },
+    {
+      "question": "it's not bad. there are a lot of people there.",
+      "answer": "good luck with that."
+    },
+    {
+      "question": "good luck with that.",
+      "answer": "thanks."
+    },
+    {
+      "question": "how are you doing today?",
+      "answer": "i'm doing great. what about you?"
+    },
+    {
+      "question": "i'm doing great. what about you?",
+      "answer": "i'm absolutely lovely, thank you."
+    },
+    {
+      "question": "i'm absolutely lovely, thank you.",
+      "answer": "everything's been good with you?"
+    },
+    {
+      "question": "everything's been good with you?",
+      "answer": "i haven't been better. how about yourself?"
+    },
+    {
+      "question": "i haven't been better. how about yourself?",
+      "answer": "i started school recently."
+    },
+    {
+      "question": "i started school recently.",
+      "answer": "where are you going to school?"
+    },
+    {
+      "question": "where are you going to school?",
+      "answer": "i'm going to pcc."
+    },
+    {
+      "question": "i'm going to pcc.",
+      "answer": "how do you like it so far?"
+    },
+    {
+      "question": "how do you like it so far?",
+      "answer": "i like it so far. my classes are pretty good right now."
+    },
+    {
+      "question": "i like it so far. my classes are pretty good right now.",
+      "answer": "i wish you luck."
+    },
+    {
+      "question": "it's an ugly day today.",
+      "answer": "i know. i think it may rain."
+    },
+    {
+      "question": "i know. i think it may rain.",
+      "answer": "it's the middle of summer, it shouldn't rain today."
+    },
+    {
+      "question": "it's the middle of summer, it shouldn't rain today.",
+      "answer": "that would be weird."
+    },
+    {
+      "question": "that would be weird.",
+      "answer": "yeah, especially since it's ninety degrees outside."
+    },
+    {
+      "question": "yeah, especially since it's ninety degrees outside.",
+      "answer": "i know, it would be horrible if it rained and it was hot outside."
+    },
+    {
+      "question": "i know, it would be horrible if it rained and it was hot outside.",
+      "answer": "yes, it would be. "
+    },
+    {
+      "question": "yes, it would be. ",
+      "answer": "i really wish it wasn't so hot every day. "
+    },
+    {
+      "question": "i really wish it wasn't so hot every day. ",
+      "answer": "me too. i can't wait until winter."
+    },
+    {
+      "question": "me too. i can't wait until winter.",
+      "answer": "i like winter too, but sometimes it gets too cold."
+    },
+    {
+      "question": "i like winter too, but sometimes it gets too cold.",
+      "answer": "i'd rather be cold than hot."
+    },
+    {
+      "question": "i'd rather be cold than hot.",
+      "answer": "me too."
+    },
+    {
+      "question": "it doesn't look very nice outside today.",
+      "answer": "you're right. i think it's going to rain later."
+    },
+    {
+      "question": "you're right. i think it's going to rain later.",
+      "answer": "in the middle of the summer, it shouldn't be raining."
+    },
+    {
+      "question": "in the middle of the summer, it shouldn't be raining.",
+      "answer": "that wouldn't seem right."
+    },
+    {
+      "question": "that wouldn't seem right.",
+      "answer": "considering that it's over ninety degrees outside, that would be weird."
+    },
+    {
+      "question": "considering that it's over ninety degrees outside, that would be weird.",
+      "answer": "exactly, it wouldn't be nice if it started raining. it's too hot."
+    },
+    {
+      "question": "exactly, it wouldn't be nice if it started raining. it's too hot.",
+      "answer": "i know, you're absolutely right."
+    },
+    {
+      "question": "i know, you're absolutely right.",
+      "answer": "i wish it would cool off one day."
+    },
+    {
+      "question": "i wish it would cool off one day.",
+      "answer": "that's how i feel, i want winter to come soon."
+    },
+    {
+      "question": "that's how i feel, i want winter to come soon.",
+      "answer": "i enjoy the winter, but it gets really cold sometimes."
+    },
+    {
+      "question": "i enjoy the winter, but it gets really cold sometimes.",
+      "answer": "i know what you mean, but i'd rather be cold than hot."
+    },
+    {
+      "question": "i know what you mean, but i'd rather be cold than hot.",
+      "answer": "that's exactly how i feel."
+    },
+    {
+      "question": "i wish it was a nicer day today.",
+      "answer": "that is true. i hope it doesn't rain."
+    },
+    {
+      "question": "that is true. i hope it doesn't rain.",
+      "answer": "it wouldn't rain in the middle of the summer."
+    },
+    {
+      "question": "it wouldn't rain in the middle of the summer.",
+      "answer": "it wouldn't seem right if it started raining right now."
+    },
+    {
+      "question": "it wouldn't seem right if it started raining right now.",
+      "answer": "it would be weird if it started raining in ninety degree weather."
+    },
+    {
+      "question": "it would be weird if it started raining in ninety degree weather.",
+      "answer": "any rain right now would be pointless."
+    },
+    {
+      "question": "any rain right now would be pointless.",
+      "answer": "that's right, it really would be."
+    },
+    {
+      "question": "that's right, it really would be.",
+      "answer": "i want it to cool down some."
+    },
+    {
+      "question": "i want it to cool down some.",
+      "answer": "i know what you mean, i can't wait until it's winter."
+    },
+    {
+      "question": "i know what you mean, i can't wait until it's winter.",
+      "answer": "winter is great. i wish it didn't get so cold sometimes though."
+    },
+    {
+      "question": "winter is great. i wish it didn't get so cold sometimes though.",
+      "answer": "i would rather deal with the winter than the summer."
+    },
+    {
+      "question": "it's such a nice day.",
+      "answer": "yes, it is."
+    },
+    {
+      "question": "yes, it is.",
+      "answer": "it looks like it may rain soon."
+    },
+    {
+      "question": "it looks like it may rain soon.",
+      "answer": "yes, and i hope that it does."
+    },
+    {
+      "question": "yes, and i hope that it does.",
+      "answer": "why is that?"
+    },
+    {
+      "question": "why is that?",
+      "answer": "i really love how rain clears the air."
+    },
+    {
+      "question": "i really love how rain clears the air.",
+      "answer": "me too. it always smells so fresh after it rains."
+    },
+    {
+      "question": "me too. it always smells so fresh after it rains.",
+      "answer": "yes, but i love the night air after it rains."
+    },
+    {
+      "question": "yes, but i love the night air after it rains.",
+      "answer": "really? why is it?"
+    },
+    {
+      "question": "really? why is it?",
+      "answer": "because you can see the stars perfectly."
+    },
+    {
+      "question": "because you can see the stars perfectly.",
+      "answer": "i really hope it rains today."
+    },
+    {
+      "question": "i really hope it rains today.",
+      "answer": "yeah, me too."
+    },
+    {
+      "question": "isn't it a nice day?",
+      "answer": "it really is."
+    },
+    {
+      "question": "it really is.",
+      "answer": "it seems that it may rain today."
+    },
+    {
+      "question": "it seems that it may rain today.",
+      "answer": "hopefully it will."
+    },
+    {
+      "question": "hopefully it will.",
+      "answer": "how come?"
+    },
+    {
+      "question": "how come?",
+      "answer": "i like how clear the sky gets after it rains."
+    },
+    {
+      "question": "i like how clear the sky gets after it rains.",
+      "answer": "i feel the same way. it smells so good after it rains."
+    },
+    {
+      "question": "i feel the same way. it smells so good after it rains.",
+      "answer": "i especially love the night air when it rains."
+    },
+    {
+      "question": "i especially love the night air when it rains.",
+      "answer": "really? why?"
+    },
+    {
+      "question": "really? why?",
+      "answer": "the stars look so much closer after it rains."
+    },
+    {
+      "question": "the stars look so much closer after it rains.",
+      "answer": "i really want it to rain today."
+    },
+    {
+      "question": "i really want it to rain today.",
+      "answer": "yeah, so do i."
+    },
+    {
+      "question": "don't you think it's nice out?",
+      "answer": "yes, i think so too."
+    },
+    {
+      "question": "yes, i think so too.",
+      "answer": "i think that it's going to rain."
+    },
+    {
+      "question": "i think that it's going to rain.",
+      "answer": "i hope that it does rain."
+    },
+    {
+      "question": "i hope that it does rain.",
+      "answer": "you like the rain?"
+    },
+    {
+      "question": "you like the rain?",
+      "answer": "the sky looks so clean after it rains. i love it."
+    },
+    {
+      "question": "the sky looks so clean after it rains. i love it.",
+      "answer": "i understand. rain does make it smell cleaner."
+    },
+    {
+      "question": "i understand. rain does make it smell cleaner.",
+      "answer": "i love most how it is at night after it rains."
+    },
+    {
+      "question": "i love most how it is at night after it rains.",
+      "answer": "how come?"
+    },
+    {
+      "question": "how come?",
+      "answer": "you can see the stars so much more clearly after it rains."
+    },
+    {
+      "question": "you can see the stars so much more clearly after it rains.",
+      "answer": "i would love for it to rain today."
+    },
+    {
+      "question": "i really want to go to the beach this weekend.",
+      "answer": "that sounds like fun. what's the weather going to be like?"
+    },
+    {
+      "question": "that sounds like fun. what's the weather going to be like?",
+      "answer": "i heard that it's going to be warm this weekend."
+    },
+    {
+      "question": "i heard that it's going to be warm this weekend.",
+      "answer": "is it going to be perfect beach weather?"
+    },
+    {
+      "question": "is it going to be perfect beach weather?",
+      "answer": "i believe so."
+    },
+    {
+      "question": "i believe so.",
+      "answer": "good. i hope it doesn't cool off this weekend."
+    },
+    {
+      "question": "good. i hope it doesn't cool off this weekend.",
+      "answer": "i know. i really want to go to the beach."
+    },
+    {
+      "question": "i know. i really want to go to the beach.",
+      "answer": "but you know that california weather is really unpredictable."
+    },
+    {
+      "question": "but you know that california weather is really unpredictable.",
+      "answer": "you're right. one minute it's hot, and then the next minute it's cold."
+    },
+    {
+      "question": "you're right. one minute it's hot, and then the next minute it's cold.",
+      "answer": "i really wish the weather would just stay the same."
+    },
+    {
+      "question": "i really wish the weather would just stay the same.",
+      "answer": "i do too. that way we can have our activities planned ahead of time."
+    },
+    {
+      "question": "i do too. that way we can have our activities planned ahead of time.",
+      "answer": "yeah, that would make things a lot easier."
+    },
+    {
+      "question": "i would like to take a trip to the beach this weekend.",
+      "answer": "a trip to the beach would be fun. how is the weather going to be?"
+    },
+    {
+      "question": "a trip to the beach would be fun. how is the weather going to be?",
+      "answer": "the forecast says that it will be warm on the weekend."
+    },
+    {
+      "question": "the forecast says that it will be warm on the weekend.",
+      "answer": "so do you think it'll be perfect weather for the beach?"
+    },
+    {
+      "question": "so do you think it'll be perfect weather for the beach?",
+      "answer": "it sounds like it will be."
+    },
+    {
+      "question": "it sounds like it will be.",
+      "answer": "i really hope it doesn't get cold."
+    },
+    {
+      "question": "i really hope it doesn't get cold.",
+      "answer": "that would ruin things, i want to go so badly."
+    },
+    {
+      "question": "that would ruin things, i want to go so badly.",
+      "answer": "the weather in california is unpredictable, so you never know."
+    },
+    {
+      "question": "the weather in california is unpredictable, so you never know.",
+      "answer": "that is true. the weather is constantly changing."
+    },
+    {
+      "question": "that is true. the weather is constantly changing.",
+      "answer": "it would be nice if the weather would never change."
+    },
+    {
+      "question": "it would be nice if the weather would never change.",
+      "answer": "that would be great, then we could plan things sooner."
+    },
+    {
+      "question": "that would be great, then we could plan things sooner.",
+      "answer": "true. predictable weather would make life easier."
+    },
+    {
+      "question": "it would be nice to go to the beach sometime this weekend.",
+      "answer": "what's the weather going to be like? i may want to go too."
+    },
+    {
+      "question": "what's the weather going to be like? i may want to go too.",
+      "answer": "the weather this weekend is supposed to be warm."
+    },
+    {
+      "question": "the weather this weekend is supposed to be warm.",
+      "answer": "will it be good beach weather?"
+    },
+    {
+      "question": "will it be good beach weather?",
+      "answer": "i think it will be."
+    },
+    {
+      "question": "i think it will be.",
+      "answer": "it wouldn't be good if it got cold this weekend."
+    },
+    {
+      "question": "it wouldn't be good if it got cold this weekend.",
+      "answer": "i want this trip to be perfect, i hope it stays warm."
+    },
+    {
+      "question": "i want this trip to be perfect, i hope it stays warm.",
+      "answer": "this california weather is so uncertain, it's impossible to know what'll happen."
+    },
+    {
+      "question": "this california weather is so uncertain, it's impossible to know what'll happen.",
+      "answer": "i know. every day the weather seems different."
+    },
+    {
+      "question": "i know. every day the weather seems different.",
+      "answer": "i would love it if it wasn't always so unpredictable."
+    },
+    {
+      "question": "i would love it if it wasn't always so unpredictable.",
+      "answer": "that would make it easier for us to make plans."
+    },
+    {
+      "question": "hello, may i speak to alice please?",
+      "answer": "this is she. how's it going?"
+    },
+    {
+      "question": "this is she. how's it going?",
+      "answer": "i've been trying to call you all day."
+    },
+    {
+      "question": "i've been trying to call you all day.",
+      "answer": "sorry about that. i was cleaning up."
+    },
+    {
+      "question": "sorry about that. i was cleaning up.",
+      "answer": "it's okay."
+    },
+    {
+      "question": "it's okay.",
+      "answer": "so what were you calling me about?"
+    },
+    {
+      "question": "so what were you calling me about?",
+      "answer": "oh, i just wanted to see if you wanted to hang out tomorrow."
+    },
+    {
+      "question": "oh, i just wanted to see if you wanted to hang out tomorrow.",
+      "answer": "sure, what did you want to do?"
+    },
+    {
+      "question": "sure, what did you want to do?",
+      "answer": "maybe we can go see a movie or something."
+    },
+    {
+      "question": "maybe we can go see a movie or something.",
+      "answer": "that sounds like fun. let's do it."
+    },
+    {
+      "question": "that sounds like fun. let's do it.",
+      "answer": "i'll see you tomorrow then."
+    },
+    {
+      "question": "i'll see you tomorrow then.",
+      "answer": "see you then. goodbye."
+    },
+    {
+      "question": "hi, how are you. is alice there?",
+      "answer": "speaking. what's up?"
+    },
+    {
+      "question": "speaking. what's up?",
+      "answer": "why haven't you answered the phone?"
+    },
+    {
+      "question": "why haven't you answered the phone?",
+      "answer": "my bad, i had chores to do."
+    },
+    {
+      "question": "my bad, i had chores to do.",
+      "answer": "that's all right."
+    },
+    {
+      "question": "that's all right.",
+      "answer": "what was the reason for your call?"
+    },
+    {
+      "question": "what was the reason for your call?",
+      "answer": "i want to do something tomorrow with you."
+    },
+    {
+      "question": "i want to do something tomorrow with you.",
+      "answer": "sounds good. what did you have in mind?"
+    },
+    {
+      "question": "sounds good. what did you have in mind?",
+      "answer": "i was thinking about seeing a movie."
+    },
+    {
+      "question": "i was thinking about seeing a movie.",
+      "answer": "okay, let's go see a movie."
+    },
+    {
+      "question": "okay, let's go see a movie.",
+      "answer": "until then."
+    },
+    {
+      "question": "until then.",
+      "answer": "talk to you later."
+    },
+    {
+      "question": "is alice available?",
+      "answer": "you're talking to her."
+    },
+    {
+      "question": "you're talking to her.",
+      "answer": "i've called you a hundred times today."
+    },
+    {
+      "question": "i've called you a hundred times today.",
+      "answer": "i was busy doing something. i apologize."
+    },
+    {
+      "question": "i was busy doing something. i apologize.",
+      "answer": "no problem."
+    },
+    {
+      "question": "no problem.",
+      "answer": "did you need something?"
+    },
+    {
+      "question": "did you need something?",
+      "answer": "do you want to do something tomorrow?"
+    },
+    {
+      "question": "do you want to do something tomorrow?",
+      "answer": "is there somewhere special you wanted to go?"
+    },
+    {
+      "question": "is there somewhere special you wanted to go?",
+      "answer": "how about a movie?"
+    },
+    {
+      "question": "how about a movie?",
+      "answer": "a movie sounds good."
+    },
+    {
+      "question": "a movie sounds good.",
+      "answer": "call me tomorrow then."
+    },
+    {
+      "question": "have you seen the new girl in school?",
+      "answer": "no, i haven't."
+    },
+    {
+      "question": "no, i haven't.",
+      "answer": "she's really pretty."
+    },
+    {
+      "question": "she's really pretty.",
+      "answer": "describe her to me."
+    },
+    {
+      "question": "describe her to me.",
+      "answer": "she's not too tall."
+    },
+    {
+      "question": "she's not too tall.",
+      "answer": "well, how tall is she?"
+    },
+    {
+      "question": "well, how tall is she?",
+      "answer": "she's about five feet even."
+    },
+    {
+      "question": "she's about five feet even.",
+      "answer": "what does she look like, though?"
+    },
+    {
+      "question": "what does she look like, though?",
+      "answer": "she has pretty light brown eyes."
+    },
+    {
+      "question": "she has pretty light brown eyes.",
+      "answer": "i may know which girl you're talking about."
+    },
+    {
+      "question": "i may know which girl you're talking about.",
+      "answer": "so you have seen her around?"
+    },
+    {
+      "question": "so you have seen her around?",
+      "answer": "yes, i have."
+    },
+    {
+      "question": "there's a new girl in school, have you seen her yet?",
+      "answer": "i haven't seen her yet."
+    },
+    {
+      "question": "i haven't seen her yet.",
+      "answer": "i think that she is very pretty."
+    },
+    {
+      "question": "i think that she is very pretty.",
+      "answer": "tell me how she looks."
+    },
+    {
+      "question": "tell me how she looks.",
+      "answer": "she's kind of short."
+    },
+    {
+      "question": "hey",
+      "answer": "hi!!"
+    }
+  ]
+}

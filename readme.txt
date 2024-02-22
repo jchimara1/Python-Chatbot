@@ -1,0 +1,1 @@
+This is a chatbot that learns a responses and matches a users question to the closes answer that it has in its knowledge base. given a large enough knowledge base then it can be useful in answer customer questions or being a virtual assistant. 
